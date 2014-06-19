@@ -13,12 +13,19 @@ usage
 polypaper [-h] [width] [height] [light-ambient] [light-diffuse] [mesh-ambient] [mesh-diffuse]
 
 -h, --help, -help: shows the help
+
 width: width of the output bmp
+
 height: height of the output bmp
+
 light-ambient: hex ambient color of the light
+
 light-diffuse: hex diffuse color of the light
+
 mesh-ambient: hex ambient color of the mesh
+
 mesh-diffuse: hex diffuse color of the mesh
+
 
 outputs a "output.bmp" of the generated wallpaper.
 
@@ -53,5 +60,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 SDL under the [GNU LGPL license](http://www.gnu.org/copyleft/lesser.html)
+
 SDL_gfx under the [zlib license](http://en.wikipedia.org/wiki/Zlib_License)
 
