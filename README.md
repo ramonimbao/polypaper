@@ -33,6 +33,7 @@ dependencies
 ============
 * [SDL 1.2](https://www.libsdl.org/download-1.2.php)
 * [SDL_gfx](http://cms.ferzkopp.net/index.php/software/13-sdl-gfx)
+* [glm](http://glm.g-truc.net/)
 
 license
 =======
